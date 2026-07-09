@@ -37,6 +37,63 @@ The project demonstrates the integration of multiple APIs, environmental science
 
 ---
 
+# 📱 Application Preview
+
+<table>
+<tr>
+<td align="center"><b>🏠 Home</b></td>
+<td align="center"><b>🌦 Weather</b></td>
+</tr>
+
+<tr>
+<td><img src="docs/screenshots/home.jpeg" width="280"/></td>
+<td><img src="docs/screenshots/weather.jpeg" width="280"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>🌩 Climate Indices</b></td>
+<td align="center"><b>🌿 Biodiversity</b></td>
+</tr>
+
+<tr>
+<td><img src="docs/screenshots/climate.jpeg" width="280"/></td>
+<td><img src="docs/screenshots/biodiversity.jpeg" width="280"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>🗺 Interactive Map</b></td>
+<td align="center"><b>💡 Local Advice</b></td>
+</tr>
+
+<tr>
+<td><img src="docs/screenshots/map.jpeg" width="280"/></td>
+<td><img src="docs/screenshots/advice.jpeg" width="280"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>📷 Camera</b></td>
+<td align="center"><b>📖 Climate Information</b></td>
+</tr>
+
+<tr>
+<td><img src="docs/screenshots/camera.jpeg" width="280"/></td>
+<td><img src="docs/screenshots/climate_info.jpeg" width="280"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="2"><b>📍 Home After Capture</b></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="docs/screenshots/home_capture.jpeg" width="350"/>
+</td>
+</tr>
+
+</table>
+
+---
+
 # 🚀 Key Features
 
 ### 📷 Smart Image Capture
